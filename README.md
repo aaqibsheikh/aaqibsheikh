@@ -1,4 +1,4 @@
-I am an experienced software engineer passionate about creating innovative solutions that harness the power of Metaverse and AI. My experience spans over 7+ years of developing applications and software solutions for a wide range of businesses.
+I am an experienced software engineer passionate about creating innovative solutions that harness the power of Metaverse and AI. My experience spans over 8 years of developing applications and software solutions for a wide range of businesses.
 
 My primary focus is on developing interactive front-end applications using HTML5, CSS3, JavaScript, TypeScript, Vuejs, Nuxtjs, Reactjs, and Nodejs. I have extensive experience in back-end development as well, utilizing MySQL, MongoDB, AWS Beanstalk, Codeigniter, and Laravel.
 
