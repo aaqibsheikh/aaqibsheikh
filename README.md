@@ -83,14 +83,6 @@ I'm passionate about **bridging Web2 and Web3**, crafting intuitive user experie
 
 ---
 
-## 📈 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aaqibnadeem&show_icons=true&theme=radical" height="160px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aaqibnadeem&theme=radical" height="160px"/>
-</p>
-
----
-
 ### 🤝 Let's Connect & Build Together!
 🚀 Open to exciting Web3 & Blockchain projects.  
 💡 Let's collaborate and build the next big thing!  
