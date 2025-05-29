@@ -1,5 +1,5 @@
 <h1 align="center">🚀 Hi, I'm Aaqib Sheikh! 👋</h1>
-<h3 align="center">💻 Full Stack Developer | Web3 & Blockchain Innovator 🌐</h3>
+<h3 align="center">Web3 Engineer | Helping Startups Build Scalable dApps & Smart Contracts | Solidity · Rust · React, NestJs</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=flat&logo=react&logoColor=white" alt="React" />
