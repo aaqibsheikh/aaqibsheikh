@@ -112,9 +112,13 @@ AWS • Docker • CI/CD • GitHub Actions
 
 ## 🤝 Let's Connect
 
-📧 Email: [aaqibnadeem123@gmail.com](mailto:aaqibnadeem123@gmail.com)
-💼 LinkedIn: https://www.linkedin.com/in/sheikhaaqib
-🌐 Upwork: https://www.upwork.com/freelancers/sheikhaaqib
+Email: [aaqibnadeem123@gmail.com](mailto:aaqibnadeem123@gmail.com)
+
+Portfolio: http://aaqibsheikh.com
+
+LinkedIn: https://www.linkedin.com/in/sheikhaaqib
+
+Upwork: https://www.upwork.com/freelancers/sheikhaaqib
 
 ---
 
