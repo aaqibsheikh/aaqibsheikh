@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Aaqib Sheikh 👋</h1>
 
 <h3 align="center">
-Technical Product Builder | Full Stack Engineer for AI, SaaS, Fintech & Web3 Startups
+Senior Full-Stack Product Engineer | Product Architecture | MVP to Scale | SaaS, Fintech, AI & Web3
 </h3>
 
 <p align="center">
